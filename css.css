@@ -1,0 +1,65 @@
+body{
+    background-image: url(cool-background.png);
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+h1{
+    color: rgb(49, 8, 6);
+    padding: 25px;
+    text-align: center;
+    background-color: rgba(245, 245, 245, 0.233);
+    background-image: url("https://media.gettyimages.com/id/165666525/photo/giant-white-knee-tarantula-spider.jpg?s=612x612&w=gi&k=20&c=AJwBex5UZnj3-YHxAo8YJP8aUu58W1II9TZ_qxRYOG8=");
+    background-position: 2%;
+    background-size: 5%;
+    background-repeat: no-repeat;
+    font-family:Verdana, Tahoma, sans-serif;
+    font-display:initial;
+}
+h2{
+    color: rgba(36, 6, 6, 0.856);
+    padding: 25px;
+    text-align: justify;
+    font-family:Verdana, Tahoma, sans-serif;
+    font-display:initial;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid rgb(88, 87, 87);
+  }
+
+  th {
+    background-color: #f2f2f2;
+  }
+
+a{
+    padding: 8px;
+    background-position: 10%;
+    color: rgb(26, 18, 8);
+    text-decoration: solid;
+    font-variant: small-caps;
+    font-size: medium;
+}
+p{
+    color: rgb(26, 25, 23);
+    padding: 8px;
+    background-color:  rgba(245, 245, 245, 0.233);
+    text-align: center;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    background-attachment: fixed;
+    background-position: 100%;
+    position: relative;
+    border-radius: 20%;
+}
+
